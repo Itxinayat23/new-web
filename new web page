@@ -1,0 +1,48 @@
+<html>
+<head>
+
+<title>my school</title>
+<style>
+
+.mybook {color:blue}
+.myname {background:red}
+.myweb {color:teal}
+
+</style>
+
+</head>
+
+<body style="background-color:lightgreen">
+
+
+
+<h1>school life</h1>
+
+<p class="mybook">School life is a formative period where students learn academic subjects, develop social skills, and 
+
+engage in extracurricular activities. It involves challenges, growth, and memorable experiences, with teachers playing a 
+
+crucial role as mentors. School prepares students for the future, fostering lifelong learning and citizenship.</p>
+
+<h2>list school parts</h2>
+<ul>
+
+<li class="myname">chairs</li>
+<li>desk</li>
+<li>bord</li>
+<li>chalk</li>
+
+</ul>
+
+<h3>list school parts two</h3>
+<ol>
+
+<li class="myweb">class rooms </li>
+<li>library</li>
+<li>Art room</li>
+</ol>
+
+
+
+
+
